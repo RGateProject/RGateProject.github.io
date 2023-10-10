@@ -5,14 +5,26 @@
     <link>https://rgateproject.github.io/</link>
     <description>Recent content on RGate Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language><atom:link href="https://rgateproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language>
+    <lastBuildDate>Tue, 10 Oct 2023 21:26:09 +0700</lastBuildDate><atom:link href="https://rgateproject.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Главная страница</title>
-      <link>https://rgateproject.github.io/</link>
-      <pubDate>Tue, 10 Oct 2023 21:43:34 +0700</pubDate>
+      <title>C:\SYSTEM\POST\ЧТО ТАКОЕ MSDOS</title>
+      <link>https://rgateproject.github.io/post/whats_msdos/</link>
+      <pubDate>Tue, 10 Oct 2023 21:26:09 +0700</pubDate>
       
-      <guid>https://rgateproject.github.io/</guid>
-      <description>Главная страница Читайте наши статьи и ставьте звезды на гитхабе!</description>
+      <guid>https://rgateproject.github.io/post/whats_msdos/</guid>
+      <description>Что такое MS-DOS? MS-DOS расшифровывается как дисковая операционная система. Операционная система - это программа, координирующая действия вычислительной машины; под ее управлением осуществляется выполнение программ. MS-DOS - операционная система, расположенная на дисках. Разработчиком MS-DOS является Корпорация Microsoft.
+Три основные функции операционной системы:
+Обмен данными между компьютером и различными периферийными устройствами (терминалами, принтерами, гибкими дисками, жесткими дисками и т.д.). Такой обмен данными называется &amp;ldquo;ввод/вывод данных&amp;rdquo;. Обеспечение системы организации и хранения файлов. Загрузка программ в память и обеспечение их выполнения.</description>
+    </item>
+    
+    <item>
+      <title>C:\SYSTEM\POST\ЧТО ТАКОЕ RGATE PROJECT</title>
+      <link>https://rgateproject.github.io/post/whats_rgate/</link>
+      <pubDate>Tue, 10 Oct 2023 21:26:09 +0700</pubDate>
+      
+      <guid>https://rgateproject.github.io/post/whats_rgate/</guid>
+      <description>Что такое RGate Project? RGate Project (Retro Gate) - это проект, посвященный ретро технологиям, системному программированию, истории программирования и информатики.</description>
     </item>
     
   </channel>

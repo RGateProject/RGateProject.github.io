@@ -5,6 +5,43 @@
     <link>https://rgateproject.github.io/categories/</link>
     <description>Recent content in Categories on RGate Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language><atom:link href="https://rgateproject.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language>
+    <lastBuildDate>Tue, 10 Oct 2023 21:26:09 +0700</lastBuildDate><atom:link href="https://rgateproject.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devpost</title>
+      <link>https://rgateproject.github.io/categories/devpost/</link>
+      <pubDate>Tue, 10 Oct 2023 21:26:09 +0700</pubDate>
+      
+      <guid>https://rgateproject.github.io/categories/devpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>greeting</title>
+      <link>https://rgateproject.github.io/categories/greeting/</link>
+      <pubDate>Tue, 10 Oct 2023 21:26:09 +0700</pubDate>
+      
+      <guid>https://rgateproject.github.io/categories/greeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>msdos</title>
+      <link>https://rgateproject.github.io/categories/msdos/</link>
+      <pubDate>Tue, 10 Oct 2023 21:26:09 +0700</pubDate>
+      
+      <guid>https://rgateproject.github.io/categories/msdos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retro</title>
+      <link>https://rgateproject.github.io/categories/retro/</link>
+      <pubDate>Tue, 10 Oct 2023 21:26:09 +0700</pubDate>
+      
+      <guid>https://rgateproject.github.io/categories/retro/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
