@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>assembly on RGate Project</title>
+    <link>https://rgateproject.github.io/tags/assembly/</link>
+    <description>Recent content in assembly on RGate Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Wed, 11 Oct 2023 18:14:11 +0700</lastBuildDate><atom:link href="https://rgateproject.github.io/tags/assembly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C:\SYSTEM\POST\ЧТО ТАКОЕ АССЕМБЛЕР</title>
+      <link>https://rgateproject.github.io/post/assembler/</link>
+      <pubDate>Wed, 11 Oct 2023 18:14:11 +0700</pubDate>
+      
+      <guid>https://rgateproject.github.io/post/assembler/</guid>
+      <description>Что такое ассемблер? Язык ассемблера (от англ. assembly language) — это императивный язык низкого уровня, который используется для представления команд CPU. При этом команды процессора остаются читабельными для программиста. Под термином &amp;ldquo;ассемблер&amp;rdquo; также может подразумеваться ПО, которое преобразует соответствующий исходный код в машинный код. Обратный процесс (конвертация машинного кода в ассемблер-код) выполняет дизассемблер.
+Простыми словами, язык ассемблера — это низкоуровневый язык, позволяющий программисту обращаться непосредственно к процессору машины.
+Как работает язык ассемблера Это самый низкоуровневый человекочитаемый язык программирования.</description>
+    </item>
+    
+  </channel>
+</rss>
